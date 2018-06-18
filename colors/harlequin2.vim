@@ -27,7 +27,7 @@ let s:black = ['#000000', 0]
 let s:greys = [['#BEBEBE', 250], ['#808080', 244], ['#696969', 242], ['#545454', 240], ['#343434', 236], ['#080808', 232]]
 
 " let s:cerise = ['#FF0033', 197]
-let s:cerise = ['#FFAACC', 213]
+let s:cerise = ['#FFAACC', 203]
 
 let s:lime = ['#AEEE00', 154]
 
