@@ -22,11 +22,12 @@ let s:text = ['#FFFFFF', 255]
 " let s:text_bg = ['#1C1B1A', 234]
 let s:text_bg = ['#000000', 232]
 
-let s:white = ['#FFFFFF', 15]
+let s:white = ['#FFFFFF', 255]
 let s:black = ['#000000', 0]
 let s:greys = [['#BEBEBE', 250], ['#808080', 244], ['#696969', 242], ['#545454', 240], ['#343434', 236], ['#080808', 232]]
 
-let s:cerise = ['#FF0033', 197]
+" let s:cerise = ['#FF0033', 197]
+let s:cerise = ['#FFAACC', 213]
 
 let s:lime = ['#AEEE00', 154]
 
@@ -34,7 +35,8 @@ let s:gold = ['#FFB829', 214]
 
 let s:brick = ['#CB4154', 167]
 
-let s:lilac = ['#AE81FF', 141]
+" let s:lilac = ['#AE81FF', 141]
+let s:lilac = ['#DDAAFF', 147]
 
 " let s:frost = ['#2C89C7', 68]
 " let s:frost = ['#00D7FF', 45]
