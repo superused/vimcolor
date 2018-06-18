@@ -18,7 +18,8 @@ endif
 let colors_name = "harlequin2"
 
 " let s:text = ['#F8F8F2', 15]
-let s:text = ['#FFFFFF', 255]
+" let s:text = ['#FFFFFF', 255]
+let s:text = ['#F8F8F2', 15]
 " let s:text_bg = ['#1C1B1A', 234]
 let s:text_bg = ['#000000', 232]
 
